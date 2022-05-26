@@ -1,0 +1,3 @@
+[submodule "charts/rasa-x/templates/charts/rasa-x/templates/aai-zeno"]
+	path = charts/rasa-x/templates/charts/rasa-x/templates/aai-zeno
+	url = git@bitbucket.org:advanceauto/aai-zeno.git
